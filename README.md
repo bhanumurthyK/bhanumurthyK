@@ -1,70 +1,48 @@
-# Hi, I'm Bhanu Murthy 👋
-**Java Backend Engineer | Enterprise Software Developer**
+# 💫 About Me:
+🎓 B.E. CSE Graduate from Sathyabama University (2026)<br>💻 Java Backend Developer — Spring Boot | Spring Core | Spring Data JPA | Hibernate | JDBC<br>🗄️ Database: MySQL<br>🌱 Currently learning: Spring Security<br>🔭 Building real-world backend projects to grow my skills<br>💼 Actively looking for Java Developer / Software Engineer roles<br>📍 India | Open to Work
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kottam-bhanu-murthy/)
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+## 🚀 Projects
+
+### 🏦 Smart Bank Management System
+A banking admin panel to manage accounts, fund transfers, and EMI calculations.
+Built with **Java | Spring Boot | Spring MVC | Spring Data JPA | Hibernate | MySQL | JSP**
+🔗 [View Repository](#your-repo-link)
+
+### 🍕 YumRoute — Food Delivery System
+A food ordering and delivery management app with separate customer and admin panels.
+Built with **Java | Spring Boot | Spring MVC | Spring Data JPA | Hibernate | MySQL | Thymeleaf**
+🔗 [View Repository](#your-repo-link)
 
 ---
 
-### 🛠️ Core Technical Expertise
-A curated overview of my engineering stack across enterprise backend architectures, database orchestration, and UI engines.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhanumurthyK&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bhanumurthyK&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhanumurthyK&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table>
-  <tr>
-    <td align="left" width="33%">
-      <strong>Backend & Frameworks</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <br/>
-      <img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Core"/> <br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/> <br/>
-      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA"/> <br/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
-    </td>
-    <td align="left" width="33%">
-      <strong>Data Architecture & ORM</strong><br/><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <br/>
-      <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/> <br/>
-      <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square" alt="JDBC"/>
-    </td>
-    <td align="left" width="33%">
-      <strong>UI & Templates</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Thymeleaf-005F4B?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/> <br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-    </td>
-  </tr>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhanumurthyK&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bhanumurthyK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-### 📊 Performance Metrics & Analytics
-These live panels track my repository activity, language metrics, and contribution consistency in real time.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanumurthyK&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Bhanu's Metrics Dashboard" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanumurthyK&layout=compact&theme=tokyonight&hide_border=true" alt="Language Analytics" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanumurthyK&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="83%" />
-</p>
+### 💡 What I'm Working Towards
+I'm a Java backend developer who enjoys building clean, structured REST APIs.
+Currently focused on mastering Spring Security and expanding my project portfolio.
+Always open to learning, feedback, and collaboration.
 
 ---
+[![](https://komarev.com/ghpvc/?username=bhanumurthyK&icon=9&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Professional Pitch & Engineering Approach
-*   ⚙   **Backend Engineering Focus:** Developing secure, enterprise-ready application logic using **Spring Boot** and **Spring MVC**. Proficient in managing complex relational database layers with **Spring Data JPA/Hibernate**, implementing ACID-compliant transaction logic, and securing endpoints.
-*   📋   **Development Methodology:** Strong disciplined focus on clean Model-View-Controller (MVC) architecture, clean codebase formatting, and maintaining strict version control (Git) workflows. Certified and tested in handling detailed technical documentation and code evaluations.
-
----
-
-### 📁 Featured Engineering Projects
-
-*   🏛️ **Smart Bank Management System**
-    *   *Core Stack:* Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, Spring MVC (JSP)
-    *   **Architecture & Integrity:** Engineered a core banking platform following strict MVC design patterns. Utilized Spring's `@Transactional` mapping to enforce absolute database integrity and ACID compliance across critical fund transfers, withdrawals, and deposits.
-    *   **Security & Controls:** Implemented custom Spring `HandlerInterceptors` to enforce robust role-based authorization rules separating standard Customers from Administrators.
-    *   **Data Layout & Auditing:** Structured complex relational data models mapping dependencies between Users, Accounts, Transactions, and Loans. Built analytical ledger auditing pipelines to generate dynamic Monthly/Annual accounting statements alongside automated administrative anti-fraud account locking systems.
-
-*   🍕 **YumRoute — Food Delivery & Management Ecosystem**
-    *   *Core Stack:* Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, MySQL, Thymeleaf Engine
-    *   **Custom Authentication Pipelines:** Engineered custom credential validation and session management layers to securely authenticate users, completely isolating administrative management panels from standard customer features.
-    *   **Inventory & State Processing:** Programmed clean, production-grade CRUD data layers using Spring Data JPA to seamlessly manage relational flows between custom user profiles, active food menus, real-time inventory adjustments, and checkout orders.
-    *   **Dynamic UI Layout:** Developed intuitive customer flows from browsing to order placement using full server-side rendered Thymeleaf templates paired with structured HTML5 and vanilla CSS3 styling.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
